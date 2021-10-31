@@ -1,4 +1,4 @@
-class stone {
+class Stone {
     constructor(x, y) {
       var options = {
         'density':12,
